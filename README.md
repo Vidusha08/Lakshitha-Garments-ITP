@@ -15,7 +15,7 @@ Transportations, managers of business affairs). Details regarding customers, sup
 expenditures, employee attendance, Assets are also stored manually. They have over 50 employees who are
 managed by 6 managers.
 
-#####Our Garment Factory Management System will comprise the following functions:
+Our Garment Factory Management System will comprise the following functions:
 
 1)Customer Management: Customers can request an account and place orders through the web application.
 
