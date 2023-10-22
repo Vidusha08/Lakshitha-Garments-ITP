@@ -16,6 +16,7 @@ expenditures, employee attendance, Assets are also stored manually. They have ov
 managed by 6 managers.
 
 Our Garment Factory Management System will comprise the following functions:
+
 1)Customer Management: Customers can request an account and place orders through the web application.
 2)Supplier Management: Suppliers can confirm the availability of materials for customer orders.
 3)HR Management: Streamlined employee management with six managers overseeing 50 employees.
